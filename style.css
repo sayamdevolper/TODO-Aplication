@@ -1,0 +1,51 @@
+#ul{
+    margin: auto;
+}
+
+h1{
+    margin-top: 10%;
+    margin-left: 33%;
+    font-size: 60px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#Dall{
+    background-color: rgb(172, 16, 5);
+    color: wheat;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px; 
+    font-size: larger;
+
+}
+
+input{
+    padding: 5px 10px;
+    font-size: large;
+    margin-left: 30%;
+    width: 25%;
+}
+
+main{
+    
+}
+
+#Addt{
+    background-color: rgb(33, 56, 184);
+    color: wheat;
+    border: none;
+    border-radius: 20px;
+   padding: 10px 20px; 
+   font-size: larger;
+   margin: 5px 20px;
+}
+
+body{
+    background-color: rgb(165, 101, 42);
+}
+
+#main{
+    margin-bottom: 20px;    
+}
